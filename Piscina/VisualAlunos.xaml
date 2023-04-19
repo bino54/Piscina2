@@ -13,7 +13,13 @@
             <ListView ItemsSource="{Binding Alunos}" ItemTapped="ListView_ItemTapped">
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <TextCell Text="{Binding Name}" />
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="{Binding Imagem}" HeightRequest="100" WidthRequest="100"/>
+                                <Label Text="{Binding Name}" />
+                                <Label Text="{Binding Nif}"/>
+                            </StackLayout>
+                        </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>

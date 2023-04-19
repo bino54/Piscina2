@@ -67,6 +67,7 @@ public partial class AvaliadoPage : ContentPage
 
 
         modelo = new Modelo(aluno, lc1);
+        labelNome.Text = aluno.Name;
         listContacts.ItemsSource = lc1;
     }
 

@@ -10,11 +10,13 @@ namespace Piscina.Models
     {
         public int Nif { get; set; }
         public string Name { get; set; }
+        public string Imagem { get; set; }
 
-        public Aluno(int nif, string name)
+        public Aluno(int nif, string name, string imagem)
         {
             this.Nif = nif;
             this.Name = name;
+            Imagem = imagem;
         }
 
         public override string ToString()

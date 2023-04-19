@@ -6,9 +6,9 @@
              x:Class="Piscina.AvaliadoPage"
              Title="AvaliadoPage">
     <StackLayout>
-        <StackLayout Orientation="Horizontal" Spacing="5" HorizontalOptions="Start">
+        <StackLayout Orientation="Horizontal" Spacing="5" HorizontalOptions="Start" Background="Green">
             <Label Text="Nome do Aluno:" TextColor="Gray" />
-            <!--<Label Text="{Binding Name}" />-->
+            <Label x:Name="labelNome" />
         </StackLayout>
 
         <StackLayout Orientation="Horizontal">

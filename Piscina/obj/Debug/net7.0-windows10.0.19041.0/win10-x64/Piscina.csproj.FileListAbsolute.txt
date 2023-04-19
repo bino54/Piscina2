@@ -322,3 +322,9 @@ C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0
 C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno1.scale-100.jpg
+C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno2.scale-100.jpg
+C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno3.scale-100.jpg
+C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno4.scale-100.jpg
+C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno5.scale-100.jpg
+C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\th.scale-100.jpg

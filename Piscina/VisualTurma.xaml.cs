@@ -46,14 +46,14 @@ public partial class VisualTurma : ContentPage
         List<Categoria> lc1 = new List<Categoria> { c1, c2, c3, c4, c5, c6, c7 };
         FichaAvaliacao f1 = new FichaAvaliacao(lc1);
 
-        Aluno a1 = new Aluno(1000, "Ricardo Rio");
-        Aluno a2 = new Aluno(2000, "Manuel Fereira");
-        Aluno a3 = new Aluno(3000, "Miguel Oliveira");
-        Aluno a4 = new Aluno(4000, "Fernando Daniel");
-        Avaliado av1 = new Avaliado(1000, "Ricardo Rio", lc1);
-        Avaliado av2 = new Avaliado(2000, "Manuel Fereira", lc1);
-        Avaliado av3 = new Avaliado(3000, "Miguel Oliveira", lc1);
-        Avaliado av4 = new Avaliado(4000, "Fernando Daniel", lc1);
+        Aluno a1 = new Aluno(1000, "Ricardo Rio","aluno1.jpg");
+        Aluno a2 = new Aluno(2000, "Manuel Fereira", "aluno2.jpg");
+        Aluno a3 = new Aluno(3000, "Miguel Oliveira", "aluno3.jpg");
+        Aluno a4 = new Aluno(4000, "Fernando Daniel", "aluno4.jpg");
+        Avaliado av1 = new Avaliado(a1, lc1);
+        Avaliado av2 = new Avaliado(a2, lc1);
+        Avaliado av3 = new Avaliado(a3, lc1);
+        Avaliado av4 = new Avaliado(a4, lc1);
         List<Aluno> b1 = new List<Aluno>() { a1, a2, a3, a4 };
         List<Avaliado> listav1 = new List<Avaliado>() { av1, av2, av3, av4 };
         Turma turmaA = new Turma("Turma A   ", DateTime.Now, listav1, f1);

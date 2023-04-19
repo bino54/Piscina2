@@ -11,19 +11,17 @@ namespace Piscina.Models
         public List<Categoria> Ficha;
 
 
-        public Avaliado(int nif, string name, List<Categoria> ficha) : base(nif, name)
+        public Avaliado(int nif, string name,string imagem, List<Categoria> ficha) : base(nif, name,imagem)
         {
             Ficha = ficha;
         }
 
-        public Avaliado(Aluno a1, List<Categoria> ficha) : base(a1.Nif, a1.Name)
+        public Avaliado(Aluno a1, List<Categoria> ficha) : base(a1.Nif, a1.Name,a1.Imagem)
         {
             Ficha = ficha;
-
-
         }
 
-        public Avaliado(Avaliado a1):base(a1.Nif,a1.Name)
+        public Avaliado(Avaliado a1):base(a1.Nif,a1.Name, a1.Imagem)
         {
             Ficha = a1.Ficha;
         }

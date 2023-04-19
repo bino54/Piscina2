@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\alvar\source\repos\Piscina\Piscina\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-04-18T22:49:36.175</Modified>
+      <Modified>2023-04-19T21:44:13.042</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-04-18T22:48:38.166</Modified>
+      <Modified>2023-04-19T19:05:22.221</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Piscina.runtimeconfig.json">
       <PackagePath>Piscina.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Piscina.dll">
       <PackagePath>Piscina.dll</PackagePath>
-      <Modified>2023-04-18T22:49:34.742</Modified>
+      <Modified>2023-04-19T21:44:11.544</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Piscina.exe</PackagePath>
-      <Modified>2023-04-18T22:49:34.752</Modified>
+      <Modified>2023-04-19T21:44:11.556</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.5\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -920,7 +920,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Piscina.deps.json">
       <PackagePath>Piscina.deps.json</PackagePath>
-      <Modified>2023-04-18T22:49:36.041</Modified>
+      <Modified>2023-04-19T21:44:12.873</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.81\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -966,209 +966,233 @@
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-04-18T20:10:53.708</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno1.scale-100.jpg">
+      <PackagePath>aluno1.scale-100.jpg</PackagePath>
+      <Modified>2023-04-19T15:32:13.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno2.scale-100.jpg">
+      <PackagePath>aluno2.scale-100.jpg</PackagePath>
+      <Modified>2023-04-19T15:35:29.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno3.scale-100.jpg">
+      <PackagePath>aluno3.scale-100.jpg</PackagePath>
+      <Modified>2023-04-19T15:34:49.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno4.scale-100.jpg">
+      <PackagePath>aluno4.scale-100.jpg</PackagePath>
+      <Modified>2023-04-19T15:35:04.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno5.scale-100.jpg">
+      <PackagePath>aluno5.scale-100.jpg</PackagePath>
+      <Modified>2023-04-19T15:35:10.683</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-04-18T20:11:13.619</Modified>
+      <Modified>2023-04-19T15:39:34.459</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.948</Modified>
+      <Modified>2023-04-19T15:39:34.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.967</Modified>
+      <Modified>2023-04-19T15:39:34.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.979</Modified>
+      <Modified>2023-04-19T15:39:34.741</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.999</Modified>
+      <Modified>2023-04-19T15:39:34.756</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-04-18T20:11:14.084</Modified>
+      <Modified>2023-04-19T15:39:34.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.715</Modified>
+      <Modified>2023-04-19T15:39:34.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.718</Modified>
+      <Modified>2023-04-19T15:39:34.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.738</Modified>
+      <Modified>2023-04-19T15:39:34.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.724</Modified>
+      <Modified>2023-04-19T15:39:34.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.729</Modified>
+      <Modified>2023-04-19T15:39:34.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.688</Modified>
+      <Modified>2023-04-19T15:39:34.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.692</Modified>
+      <Modified>2023-04-19T15:39:34.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.711</Modified>
+      <Modified>2023-04-19T15:39:34.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.697</Modified>
+      <Modified>2023-04-19T15:39:34.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.701</Modified>
+      <Modified>2023-04-19T15:39:34.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.630</Modified>
+      <Modified>2023-04-19T15:39:34.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.635</Modified>
+      <Modified>2023-04-19T15:39:34.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.639</Modified>
+      <Modified>2023-04-19T15:39:34.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.645</Modified>
+      <Modified>2023-04-19T15:39:34.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.651</Modified>
+      <Modified>2023-04-19T15:39:34.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.655</Modified>
+      <Modified>2023-04-19T15:39:34.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.659</Modified>
+      <Modified>2023-04-19T15:39:34.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.683</Modified>
+      <Modified>2023-04-19T15:39:34.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.668</Modified>
+      <Modified>2023-04-19T15:39:34.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.672</Modified>
+      <Modified>2023-04-19T15:39:34.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.809</Modified>
+      <Modified>2023-04-19T15:39:34.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.815</Modified>
+      <Modified>2023-04-19T15:39:34.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.825</Modified>
+      <Modified>2023-04-19T15:39:34.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.835</Modified>
+      <Modified>2023-04-19T15:39:34.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.857</Modified>
+      <Modified>2023-04-19T15:39:34.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.771</Modified>
+      <Modified>2023-04-19T15:39:34.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.776</Modified>
+      <Modified>2023-04-19T15:39:34.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.781</Modified>
+      <Modified>2023-04-19T15:39:34.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.787</Modified>
+      <Modified>2023-04-19T15:39:34.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.802</Modified>
+      <Modified>2023-04-19T15:39:34.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.742</Modified>
+      <Modified>2023-04-19T15:39:34.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.748</Modified>
+      <Modified>2023-04-19T15:39:34.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.752</Modified>
+      <Modified>2023-04-19T15:39:34.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.759</Modified>
+      <Modified>2023-04-19T15:39:34.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.767</Modified>
+      <Modified>2023-04-19T15:39:34.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.864</Modified>
+      <Modified>2023-04-19T15:39:34.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.872</Modified>
+      <Modified>2023-04-19T15:39:34.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.883</Modified>
+      <Modified>2023-04-19T15:39:34.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.899</Modified>
+      <Modified>2023-04-19T15:39:34.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.936</Modified>
+      <Modified>2023-04-19T15:39:34.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.689</Modified>
+      <Modified>2023-04-19T15:39:34.444</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.701</Modified>
+      <Modified>2023-04-19T15:39:34.459</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.720</Modified>
+      <Modified>2023-04-19T15:39:34.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.748</Modified>
+      <Modified>2023-04-19T15:39:34.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-04-18T20:11:13.813</Modified>
+      <Modified>2023-04-19T15:39:34.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\th.scale-100.jpg">
+      <PackagePath>th.scale-100.jpg</PackagePath>
+      <Modified>2023-04-19T15:32:13.247</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

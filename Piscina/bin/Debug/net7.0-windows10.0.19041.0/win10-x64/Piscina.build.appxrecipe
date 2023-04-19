@@ -724,6 +724,21 @@
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno1.scale-100.jpg">
+      <PackagePath>aluno1.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno2.scale-100.jpg">
+      <PackagePath>aluno2.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno3.scale-100.jpg">
+      <PackagePath>aluno3.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno4.scale-100.jpg">
+      <PackagePath>aluno4.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\aluno5.scale-100.jpg">
+      <PackagePath>aluno5.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
@@ -876,6 +891,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alvar\source\repos\Piscina\Piscina\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\th.scale-100.jpg">
+      <PackagePath>th.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

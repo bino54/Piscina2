@@ -9,8 +9,9 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal" Spacing="40">
+                        <StackLayout Orientation="Horizontal">
                             <Label Text="{Binding Name}" />
+                            <Label Text=":"/>
                             <Label Text="{Binding ValorNota}" />
                         </StackLayout>
                     </ViewCell>

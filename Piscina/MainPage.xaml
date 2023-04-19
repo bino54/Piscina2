@@ -10,7 +10,7 @@
             VerticalOptions="Center">
 
             <Image
-                Source="person.png"
+                Source="aluno2.jpg"
                 SemanticProperties.Description="Pagina de Login"
                 HeightRequest="150"
                 WidthRequest="150"
